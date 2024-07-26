@@ -1,1 +1,0 @@
-Streamlit run Index.py
