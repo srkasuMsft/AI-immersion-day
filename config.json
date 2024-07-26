@@ -1,0 +1,12 @@
+{
+    "AOAIEndpoint": "https://xxxxxx.openai.azure.com/",
+    "AOAIKey": "xxxxxxxxxx",
+    "AOAIDeploymentName": "gpt-4o-2",
+    "SearchEndpoint": "https://xxxxxxxxxx.search.windows.net",
+    "SearchKey": "xxxxxxxxxxx",
+    "SearchIndex": "sustainingidx",
+    "SpeechKey": "xxxxxxxxxxxxxx",
+    "SpeechRegion": "eastus2",
+    "LanguageEndpoint": "https://xxxxxxxxx.cognitiveservices.azure.com/",
+    "LanguageKey": "xxxxxxxxx"
+}
